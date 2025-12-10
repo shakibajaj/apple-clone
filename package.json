@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-learnings",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "watch": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.17",
+    "tailwindcss": "^4.1.17"
+  }
+}
