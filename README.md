@@ -1,6 +1,8 @@
 # Apple Clone Website
 A responsive Apple website clone built with HTML and Tailwind CSS. It recreates Apple’s clean and modern look, with smooth scaling and consistent styling on desktops, tablets, and phones. This project was a fun way to practice front-end development, responsive design, and utility-first styling while building a sleek, real-world interface.
 
+![Project Screenshot](src/assets/clone_image.png)
+
 ## Features
 - Modern Apple-inspired interface  
 - Fully Responsive layout  
@@ -16,6 +18,8 @@ A responsive Apple website clone built with HTML and Tailwind CSS. It recreates 
 - Flexible layouts with Flexbox and Grid  
 - Component-driven styling for efficient development  
 - Consistent spacing, typography, and component patterns  
+
+![Project Screenshot](src/assets/clone-md_image.png)
 
 ## Technical Skills Demonstrated
 
