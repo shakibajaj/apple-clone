@@ -19,7 +19,7 @@ A responsive Apple website clone built with HTML and Tailwind CSS. It recreates 
 - Component-driven styling for efficient development  
 - Consistent spacing, typography, and component patterns  
 
-![Project Screenshot](src/assets/clone-md_image.png)
+![Project Screenshot](src/assets/clone-sm_image.png)
 
 ## Technical Skills Demonstrated
 
